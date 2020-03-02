@@ -3,7 +3,7 @@
 ssh-keygen -t rsa -C "phong.hd1989@gmail.com" -f "id_rsa_phonghd"
 ```
 
-# 2. add theses line into ~/.ssh/config
+# 2. Add theses line into ~/.ssh/config
 
 ```
 # main account
