@@ -1,6 +1,6 @@
 ## 1. Generate ssh key for new account
 ```
-ssh-keygen -t rsa -C "phong.hd1989@gmail.com" -f "id_rsa_phonghd"
+ssh-keygen -t rsa -C "your_email@gmail.com" -f "id_rsa_secondary"
 ```
 
 ## 2. Add theses line into ~/.ssh/config
