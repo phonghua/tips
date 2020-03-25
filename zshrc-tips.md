@@ -1,6 +1,6 @@
 
 ## Alias
-```base
+```bash
 alias ph="cd ~/Documents/phonghd"
 
 alias k="kubectl"
