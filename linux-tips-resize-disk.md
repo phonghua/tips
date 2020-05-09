@@ -22,7 +22,7 @@ sda 8:0 0 1000G 0 disk
 
 ## Step 1: Increase disk size
 
-In your VM . instance setting, click on the disk (either boot disk or additional disk), then increase the capacity by the amount you need.
+Resize your volume
 
 ## Step 2: Grow the partition
 ```
