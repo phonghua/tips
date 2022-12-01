@@ -63,3 +63,6 @@ if [ "$1" = "--launch-agent" ]; then
 fi
 ​
 ```
+
+
+https://github.com/JustinBeBoy/jet/blob/master/runme.sh
